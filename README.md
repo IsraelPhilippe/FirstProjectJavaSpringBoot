@@ -13,3 +13,10 @@ ORM JPA
 
 O objetivo deste projeto é praticar conceitos básicos de programação em Java, bem como aprender sobre o desenvolvimento de APIs RESTful usando o framework Spring Boot. Ao longo do desenvolvimento, pude entender melhor o funcionamento do banco de dados H2 em memória, assim como a utilização do ORM JPA para mapeamento objeto-relacional.
 Este projeto é uma demonstração do meu progresso no aprendizado de Java e do meu interesse em explorar mais sobre desenvolvimento de software, estarei usando meu git hub para detalhar todo meu processo de aprendizagem.
+
+
+## Collection para tester o projeto
+
+https://www.postman.com/wiz777/workspace/projetos-teste/collection/34635077-4db8a83d-f351-4862-9c0a-778e33333d50?action=share&creator=34635077
+
+# Projeto está localizado na branch Master <i class="fa-solid fa-triangle-exclamation"></i>
